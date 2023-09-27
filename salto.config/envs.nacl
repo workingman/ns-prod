@@ -1,0 +1,16 @@
+envs {
+  envs = [
+    {
+      name = "ns-dev"
+      accountToServiceName = {
+        netsuite = "netsuite"
+      }
+    },
+    {
+      name = "ns-prod"
+      accountToServiceName = {
+        netsuite = "netsuite"
+      }
+    },
+  ]
+}

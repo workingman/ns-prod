@@ -1,0 +1,196 @@
+netsuite.savedsearch customsearch241 {
+  scriptid = "customsearch241"
+  definition = "1a7182b1da2c788ec662391d0760e270e442f3e7541fd8d5afcea09d4b79657f@GZC@2023.1.17@H4sIAAAAAAAA/+1dXXOiyhZ9P1XnP1jM8w2RNp9lPIXQRm4QPHwkk/tCEe3McC6iBThzM7/+Ng0kKurEFkEpqqYqZQ/sblavRS/2brH91/8mbuMH8gNn6t0xzbNzpoG80XTseN/uGNPo/eua+avz5x9tLwimo1sd+Y7tOr/QWH35B41CYeqFtuMhv4HDeMEtOeqO+R6Gs1uW/fnz55mHwmDuhOhsNJ2wweg7mtgBSw5jGnNnfMcYuiFqj1zr+rwJbm51+wca68j2R99vR/MgnE4C8oFrNW+blzcXVzcXTe6ydd5kPgZ9foY/hc4EBaE9meGLWDqukwx9Ys9meJxLZ3XwoKIRumj8Dfl4iD46i/vDf5Ir9c/iM8/iUQ3Ihza7GDTtYoxeHc8JcfhOOz5aXGgZo2DkO7Nwio/3Ee5rbLzNUGPk2kFwx8THa+/tTEeHvCb0LagY2nOb/Tij0/5hu3MUdNqP0d/Gq4Nc8h9pkF7awMT/d8c8wGdryAsP/D1kGuyOJ+qCJg0NSxKZaKy/ft0xQehjemD0lieozZK4O4TvSVAWLRH2eFM2LIUf4OGN0Qx5Y8zBtwf0dsfI05HtIvEdu9sEFkMyZPjlPDOm8dBHr8j30bghT785XoOfj52wYfi24zbicTR6U39CO9i0++chzPRNOiT9UUSX+XtraHZlSXiP+zKdusj2mM6r7QaIMqYs6Ua+EYeqhrHPOeiAF/qSAvMNqsGBpIhQyzeq3lefMKzKQ86warAHNQ2Kh5iy99gHmbyP8AeZxo/wPVUbHCq2BnV8F9LzDf8owSeL13HwCPjDxL7X+GH/UKEXbvu5RDYVjLOhSYIB84s84L9amvqk77a4kfGIks53ZWiJmiTLlqg+KfldL1kwBBOzSxGeLY03YLJu7DzKviRCqyfJBtTwSNVhNM78mBqt8ukibMCvhhWPPO4vs8rpBq8Z+pNk9CkpwD/ykkxAxwzrwRx5QMLfy2qXly0oSjnrTdAf8w0IvwpQzvl2JvZy5i8c4Nmyepo62JG3C2frZvffUDDoA3RV8Zn+bEEdDLCNptAdvlHd38NodeBlmPf9Wxf6UDTlQoLjKRgMeE2COa9vOlQilIfG82HWz3jwvCxjy4VZFD2LdHN2F3EXkiLIJr7JkpVvvbkL/TltH318pzNUg5dzhicd9RBqkoonAk+GofGKzguGpOa4QsRq6pryg6UOsZ7EXRexj/PJ8ywxcviRVOMHNIt218RLE774nK9PHRrSQPoPXmOxh6W5XRA1qIplDkW82B/gqYM38aoWTbH023WDTbME7GLi4dVxQ+Tj1jCTe4AumiAvXEo+xBZAb7MhSTyw76cH88nE9t96u4WLb0LPmbCr0ewf+GndfnFR3EIQ+XQnH/ZipZsUkDjJ0mnPbB+fmwYUpq6LRlGqhmmQFALyRnhOzs5Y8o+wYYe0zeoo9szg6PBvSzEH3QU/5ngh06FOuqxNtryM/Vvbe7v15q67JbthmXp0QbR+WDfUgYWxibzP77I9qzB+aVLIsqeqRt5JgDimNcBLnoR1LxN781lFpgysEhO5UpioqTIsiYlczcTjZCIohYnRil8SE0HNxONkYqsUJpKHXl4U8QOZXhIjWzUjj5ORF6UwUhqWS8eLmo7HScfL0h5f+HuoGCXR8bKm43HS8aqcZxj4twl1w9Skkvh4VfPxOPl4XQofdYM3zLKW6uuai8fJxZtyuAgFoc/LMlTuy3q6vqkZeZyMbJ6XQkmVN40+PxxGQcpKgp/XnDxSTpZTkIk5KQj4EdtQH6BSJjcrVaH5aNlQk/RROPe99FOYoeK6CqUGsdlX4l1W5VQnF0ewpxJi0vCyxOul5M6jDb5fcyqKfpLzi+h9ae5aB4q3kSeVcKoed833L/VIsQMx3g1oKmRTCdW5qoZlyO9xqgU1Tc3xBhHv99BEsrer+5zyly1tfToyReZRQ1ijTOoiMZVOdq1C7K/MXRPNtTJrZRa492aNIqmL5VT62DXzvb8id81t1oqsFVngHqQ1iqTeNEClj13zrfsrctd8Wq3IWpFF7zdYI0vqnRM0IuF2TfDtLUtu17RNLctaloUWFtdoknr7CJVCCk/0cHWip9bkoTWZQ4F1jTKpd9JQ6aTwRA9XJ3pqZR66KAINXpJz1CT1biIqhRSe6uHqVE+hmvxoWa6BjlFoO276Kcwob11FNOZ6XRE9VEWUevMWlRALzylxdU6pXo5PsyJaqDJB4WklUKeVamWeVkW0WEUWnlQCdVKpVuRpVUSLVWThySRQJ5NqRZ5gRbRYWRaeTwJ1PqmW5alVRIvVZOGJHlAnempNnmZFtFBltgpP9LTqRE9J1Zfleksw9UOsz/nE+/xbOVXNsARVNgdKObWXhQHk8EMnBMbCCy/y+9zt/1008l56qAtQESXlfp8vLS6xAavXD/ExzszBc5kS5nMciV+SrEFBGkpQMfSVUh27PvZyK3VnG3qJLjAOsvgzO2z2t3jSloQQTgTNSttbIyRzsnqTS36k6Le/QhMddM502qsHxpfcWTw8vZr/orfOeZuN/rRD3/YC146Gi8eGr83HjTE7O8izIouYfEpbP/87N+mJbBKWXe6MzQ6ZXQVnb7jWvcY1OrC5GbLsF7Y/YGvuDluke3InPSYUuBgFjg4FriIogBgFQIcCqAgKrRiFFh0KrYqgcBGjcEGHwkVFULiMUbikQ+GyIihcxShc0aFwVREUrmMUrulQuK4ICjcxCjd0KNxUBIVm4jSbW6zmVt9E4TePE4jUP9IayBN1kJk3jxAQtvjH5dzaAgAnah4zL0IhAGyxjhsBOFHfmHnDBQFgi2vcCMCJWsbMCzcIAFsM40YATtQtZt6oQADY4hU3AnCiRjHzggcCwBabuBGAE/WImW/wEwC2OMSNAJyoPcy8UIAAsMUcbgTgRJ1h5sviJI20xRVuAoA7UUeY+e46AWCLG9wIQBWcIJcmEimcIFcFJ8glTpCjcIJcFZwglzhBjsIJclVwglziBDkKJ8hVwQlyiRPkKJwgVwUnyCVOkKNwglwVnCCXOEGOwglyVXCCXOIEOQonyFXBCYLECQIKJwiq4ARB4gQBhRMEVXCCIHGCgMIJgio4QZBWkymcIKiCEwSJEwQUThBUwQmCxAkCCicIquAEQeIEAYUTBFVwgiBxgoDCCYIqOEGQOEFA4QRBFZwgSJwgoHCCoApOsJU4wRaFE2xVwQm2EifYonCCrbKc4GoT2amaNOrId2zX+YXG6ss/aBQKUy+0HQ/5nT//+D+RnlahxpMAAA=="
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "LoginAudit_USER"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "LoginAudit_ROLE"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 3
+      FIELD_NAME = "LoginAudit_DATE"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 4
+      FIELD_NAME = "LoginAudit_EMAILADDRESS"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 5
+      FIELD_NAME = "LoginAudit_IPADDRESS"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 6
+      FIELD_NAME = "LoginAudit_USERAGENT"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 7
+      FIELD_NAME = "LoginAudit_REQUESTURI"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 8
+      FIELD_NAME = "LoginAudit_STATUS"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 9
+      FIELD_NAME = "LoginAudit_SECCHALLENGE"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 10
+      FIELD_NAME = "LoginAudit_OAUTHAPPNAME"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 11
+      FIELD_NAME = "LoginAudit_OAUTHACCESSTOKENNAME"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "LoginAudit_DATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_EMAILADDRESS"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_USER"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_ROLE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_IPADDRESS"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_STATUS"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_SECCHALLENGE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_DETAIL"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "LoginAudit_DATE"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_EMAILADDRESS"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_USER"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_ROLE"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_IPADDRESS"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_STATUS"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "LoginAudit_SECCHALLENGE"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "LoginAudit_DATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch241"
+  FIELD_DEFAULT_NAME = "dPreferred Login Audit Trail Search Form"
+  FIELD_SEARCH_TYPE = "LoginAudit"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  _alias = "dPreferred Login Audit Trail Search Form"
+}
