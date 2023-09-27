@@ -7,6 +7,9 @@ define(['N/log'],
  * @param{log} log
  */
 
+    // 20230925-235310
+    // 20230926-000024
+
     /**
       * change 1
       */
@@ -21,14 +24,7 @@ define(['N/log'],
         const onRequest = (scriptContext) => {
             const a = 2
             workflow.get({ name: 'custbody_aw_second_lvl_approval' })
-            workflow.get({ name: 'custbody_aw_second_lvl_approval' })
-            workflow.get({ name: 'custbody_aw_second_lvl_approval' })
-            workflow.get({ name: 'custbody_aw_second_lvl_approval' })
-            workflow.get({ name: 'custbody_aw_second_lvl_approval' })
-            workflow.get({ name: 'custbody_aw_second_lvl_approval' })
-            workflow.get({ name: 'custbody_aw_second_lvl_approval' })
-            workflow.get({ name: 'custbody_aw_second_lvl_approval' })
-            workflow.get({ name: 'custbody_aw_second_lvl_approval' })
+            // 20230912-223153
        }
       /**
         * change 2
