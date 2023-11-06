@@ -1,0 +1,16 @@
+envs {
+  envs = [
+    {
+      name = "fac01030-ee9b-459f-ade1-690fd2cdfa48-gwr-cpq-prod"
+      accountToServiceName = {
+        salesforce = "salesforce"
+      }
+    },
+    {
+      name = "ns-prod"
+      accountToServiceName = {
+        netsuite = "netsuite"
+      }
+    },
+  ]
+}
