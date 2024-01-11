@@ -238,30 +238,113 @@ netsuite.role customrole_gwr_role_ar {
       }
       ADMI_ACCOUNTINGLIST = {
         permkey = "ADMI_ACCOUNTINGLIST"
-        permlevel = "EDIT"
+        permlevel = "FULL"
       }
       ADMI_DELETEDRECORD = {
         permkey = "ADMI_DELETEDRECORD"
         permlevel = "FULL"
       }
-      ADMI_LOGIN_OAUTH = {
-        permkey = "ADMI_LOGIN_OAUTH"
-        permlevel = "FULL"
-      }
+      
       ADMI_MOBILE_ACCESS = {
         permkey = "ADMI_MOBILE_ACCESS"
         permlevel = "FULL"
       }
       ADMI_EMPLOYEELIST = {
         permkey = "ADMI_EMPLOYEELIST"
-        permlevel = "EDIT"
-      }
-      ADMI_RESTWEBSERVICES = {
-        permkey = "ADMI_RESTWEBSERVICES"
         permlevel = "FULL"
       }
-      ADMI_WEBSERVICES = {
-        permkey = "ADMI_WEBSERVICES"
+      
+      
+      ADMI_ACCOUNTING = {
+        permkey = "ADMI_ACCOUNTING"
+        permlevel = "FULL"
+      }
+      ADMI_ACCTPERIODS = {
+        permkey = "ADMI_ACCTPERIODS"
+        permlevel = "FULL"
+      }
+      ADMI_ACCTSETUP = {
+        permkey = "ADMI_ACCTSETUP"
+        permlevel = "FULL"
+      }
+      ADMI_AUDITLOGIN = {
+        permkey = "ADMI_AUDITLOGIN"
+        permlevel = "FULL"
+      }
+      ADMI_CUSTFIELD = {
+        permkey = "ADMI_CUSTFIELD"
+        permlevel = "VIEW"
+      }
+      ADMI_CUSTLIST = {
+        permkey = "ADMI_CUSTLIST"
+        permlevel = "FULL"
+      }
+      ADMI_CUSTOMSCRIPT = {
+        permkey = "ADMI_CUSTOMSCRIPT"
+        permlevel = "VIEW"
+      }
+      ADMI_CUSTRECORD = {
+        permkey = "ADMI_CUSTRECORD"
+        permlevel = "VIEW"
+      }
+      ADMI_FINANCIALINSTITUTION = {
+        permkey = "ADMI_FINANCIALINSTITUTION"
+        permlevel = "FULL"
+      }
+      ADMI_FINCHARGEPREF = {
+        permkey = "ADMI_FINCHARGEPREF"
+        permlevel = "FULL"
+      }
+      ADMI_IMPORTCSVFILE = {
+        permkey = "ADMI_IMPORTCSVFILE"
+        permlevel = "FULL"
+      }
+      ADMI_MANAGECUSTOMSEGMENTS = {
+        permkey = "ADMI_MANAGECUSTOMSEGMENTS"
+        permlevel = "FULL"
+      }
+      ADMI_NUMBERING = {
+        permkey = "ADMI_NUMBERING"
+        permlevel = "VIEW"
+      }
+      ADMI_PERIODCLOSING = {
+        permkey = "ADMI_PERIODCLOSING"
+        permlevel = "FULL"
+      }
+      ADMI_PERIODOVERRIDE = {
+        permkey = "ADMI_PERIODOVERRIDE"
+        permlevel = "FULL"
+      }
+      ADMI_REPOGROUPS = {
+        permkey = "ADMI_REPOGROUPS"
+        permlevel = "FULL"
+      }
+      ADMI_REPOLAYOUTS = {
+        permkey = "ADMI_REPOLAYOUTS"
+        permlevel = "FULL"
+      }
+      ADMI_REVIEW_CUSTOM_GL_RUNS = {
+        permkey = "ADMI_REVIEW_CUSTOM_GL_RUNS"
+        permlevel = "FULL"
+      }
+      ADMI_SAVEDASHBOARD = {
+        permkey = "ADMI_SAVEDASHBOARD"
+        permlevel = "FULL"
+      }
+      ADMI_SETUPCOMPANY = {
+        permkey = "ADMI_SETUPCOMPANY"
+        permlevel = "VIEW"
+      }
+      ADMI_SS_SCHEDULING = {
+        permkey = "ADMI_SS_SCHEDULING"
+        permlevel = "FULL"
+      }
+      ADMI_STATETAXIMPORT = {
+        permkey = "ADMI_STATETAXIMPORT"
+        permlevel = "FULL"
+      }
+      ADMI_WORKFLOW = {
+        permkey = "ADMI_WORKFLOW"
         permlevel = "FULL"
       }
     }
